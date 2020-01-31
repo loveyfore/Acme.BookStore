@@ -1,0 +1,24 @@
+{
+  "culture": "en",
+  "texts": {
+    "Menu:Home": "Home",
+
+    "Menu:BookStore": "Book Store",
+    "Menu:Books": "Books",
+    "Name": "Name",
+    "Type": "Type",
+    "PublishDate": "Publish Date",
+    "Price": "Price",
+    "CreationTime": "Creation Time",
+    "NewBook": "New Book",
+    "Edit": "Edit",
+    "Actions": "Actions",
+    "Update": "Update",
+    "Delete": "Delete",
+    "BookDeletionConfirmationMessage": "Are you sure to delete the book {0}?",
+    "SuccessfullyDeleted": "Successfully deleted",
+
+    "Welcome": "Welcome",
+    "LongWelcomeMessage": "Welcome to the application. This is a startup project based on the ABP framework. For more information, visit abp.io."
+  }
+}
